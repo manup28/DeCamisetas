@@ -1,0 +1,23 @@
+.Contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.Item{
+    text-align: center;
+    border: 2px solid #2c203d;
+    margin: 4rem;
+    width: 70%;
+}
+
+img{
+    width: 35vw;
+}
+
+h2{
+    font-size: 2.5rem;
+}
+
+h3, p{
+    font-size: 2rem;
+}

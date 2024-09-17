@@ -3,13 +3,40 @@ header {
     align-items: center;
     justify-content: space-around;
     padding: 10px;
+    background-color: #f3efff;
+}
+
+h1{
+    font-size: 3rem;
 }
 
 ul {
     display: flex;
     list-style: none;
+    font-size: 2rem;
 }
 
 li {
     margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.arg:hover {
+    color: cornflowerblue;
+}
+
+.ing:hover {
+    color: red;
+}
+
+.ita:hover {
+    color: forestgreen;
+}
+
+.esp:hover {
+    color: gold;
 }
