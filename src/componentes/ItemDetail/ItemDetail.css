@@ -21,3 +21,16 @@ h2{
 h3, p{
     font-size: 2rem;
 }
+
+.boton{
+    padding-bottom: 1rem;
+}
+
+.boton a {
+    background-color: #2c203d;
+    color: #fafafa;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+}

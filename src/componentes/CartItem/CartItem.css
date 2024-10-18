@@ -1,0 +1,19 @@
+.prodCarrito {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    }
+
+.prodCarrito p{
+    padding-right: 1rem;
+}
+
+.prodCarrito button {
+    background-color: #44325e;
+    color: #fafafa;
+    font-size: 1rem;
+    border-radius: 10px;
+    border: none;
+    height: 2rem;
+    align-self: center;
+}
